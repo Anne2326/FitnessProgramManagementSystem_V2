@@ -1,0 +1,2 @@
+C:\Users\UT01691\Desktop\Exam C# Gym\FitnessProgramManagementSystem_V2Gym\FitnessProgramManagementSystem_V2\obj\Debug\FitnessProgramManagementSystem_V2.csproj.AssemblyReference.cache
+C:\Users\UT01691\Desktop\Exam C# Gym\FitnessProgramManagementSystem_V2Gym\FitnessProgramManagementSystem_V2\obj\Debug\FitnessProgramManagementSystem_V2.csproj.CoreCompileInputs.cache

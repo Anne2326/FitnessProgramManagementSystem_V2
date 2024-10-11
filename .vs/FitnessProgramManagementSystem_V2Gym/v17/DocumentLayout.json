@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UT01691\\Desktop\\Exam C# Gym\\FitnessProgramManagementSystem_V2Gym\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31D41B19-2538-4F69-81AD-A9108D171628}|FitnessProgramManagementSystem_V2\\FitnessProgramManagementSystem_V2.csproj|c:\\users\\ut01691\\desktop\\exam c# gym\\fitnessprogrammanagementsystem_v2gym\\fitnessprogrammanagementsystem_v2\\fitnessprogramrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D41B19-2538-4F69-81AD-A9108D171628}|FitnessProgramManagementSystem_V2\\FitnessProgramManagementSystem_V2.csproj|solutionrelative:fitnessprogrammanagementsystem_v2\\fitnessprogramrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D41B19-2538-4F69-81AD-A9108D171628}|FitnessProgramManagementSystem_V2\\FitnessProgramManagementSystem_V2.csproj|c:\\users\\ut01691\\desktop\\exam c# gym\\fitnessprogrammanagementsystem_v2gym\\fitnessprogrammanagementsystem_v2\\fitnessprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D41B19-2538-4F69-81AD-A9108D171628}|FitnessProgramManagementSystem_V2\\FitnessProgramManagementSystem_V2.csproj|solutionrelative:fitnessprogrammanagementsystem_v2\\fitnessprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D41B19-2538-4F69-81AD-A9108D171628}|FitnessProgramManagementSystem_V2\\FitnessProgramManagementSystem_V2.csproj|c:\\users\\ut01691\\desktop\\exam c# gym\\fitnessprogrammanagementsystem_v2gym\\fitnessprogrammanagementsystem_v2\\fitnessprogrammanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D41B19-2538-4F69-81AD-A9108D171628}|FitnessProgramManagementSystem_V2\\FitnessProgramManagementSystem_V2.csproj|solutionrelative:fitnessprogrammanagementsystem_v2\\fitnessprogrammanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D41B19-2538-4F69-81AD-A9108D171628}|FitnessProgramManagementSystem_V2\\FitnessProgramManagementSystem_V2.csproj|c:\\users\\ut01691\\desktop\\exam c# gym\\fitnessprogrammanagementsystem_v2gym\\fitnessprogrammanagementsystem_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D41B19-2538-4F69-81AD-A9108D171628}|FitnessProgramManagementSystem_V2\\FitnessProgramManagementSystem_V2.csproj|solutionrelative:fitnessprogrammanagementsystem_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FitnessProgramManager.cs",
+              "DocumentMoniker": "C:\\Users\\UT01691\\Desktop\\Exam C# Gym\\FitnessProgramManagementSystem_V2Gym\\FitnessProgramManagementSystem_V2\\FitnessProgramManager.cs",
+              "RelativeDocumentMoniker": "FitnessProgramManagementSystem_V2\\FitnessProgramManager.cs",
+              "ToolTip": "C:\\Users\\UT01691\\Desktop\\Exam C# Gym\\FitnessProgramManagementSystem_V2Gym\\FitnessProgramManagementSystem_V2\\FitnessProgramManager.cs",
+              "RelativeToolTip": "FitnessProgramManagementSystem_V2\\FitnessProgramManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:33:17.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FitnessProgramRepository .cs",
+              "DocumentMoniker": "C:\\Users\\UT01691\\Desktop\\Exam C# Gym\\FitnessProgramManagementSystem_V2Gym\\FitnessProgramManagementSystem_V2\\FitnessProgramRepository .cs",
+              "RelativeDocumentMoniker": "FitnessProgramManagementSystem_V2\\FitnessProgramRepository .cs",
+              "ToolTip": "C:\\Users\\UT01691\\Desktop\\Exam C# Gym\\FitnessProgramManagementSystem_V2Gym\\FitnessProgramManagementSystem_V2\\FitnessProgramRepository .cs",
+              "RelativeToolTip": "FitnessProgramManagementSystem_V2\\FitnessProgramRepository .cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAgwJgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:23:47.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fitnessprogram.cs",
+              "DocumentMoniker": "C:\\Users\\UT01691\\Desktop\\Exam C# Gym\\FitnessProgramManagementSystem_V2Gym\\FitnessProgramManagementSystem_V2\\Fitnessprogram.cs",
+              "RelativeDocumentMoniker": "FitnessProgramManagementSystem_V2\\Fitnessprogram.cs",
+              "ToolTip": "C:\\Users\\UT01691\\Desktop\\Exam C# Gym\\FitnessProgramManagementSystem_V2Gym\\FitnessProgramManagementSystem_V2\\Fitnessprogram.cs",
+              "RelativeToolTip": "FitnessProgramManagementSystem_V2\\Fitnessprogram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:05:38.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UT01691\\Desktop\\Exam C# Gym\\FitnessProgramManagementSystem_V2Gym\\FitnessProgramManagementSystem_V2\\Program.cs",
+              "RelativeDocumentMoniker": "FitnessProgramManagementSystem_V2\\Program.cs",
+              "ToolTip": "C:\\Users\\UT01691\\Desktop\\Exam C# Gym\\FitnessProgramManagementSystem_V2Gym\\FitnessProgramManagementSystem_V2\\Program.cs",
+              "RelativeToolTip": "FitnessProgramManagementSystem_V2\\Program.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowFgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:05:13.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

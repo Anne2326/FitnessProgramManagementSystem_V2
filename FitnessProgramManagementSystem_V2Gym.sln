@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitnessProgramManagementSystem_V2", "FitnessProgramManagementSystem_V2\FitnessProgramManagementSystem_V2.csproj", "{31D41B19-2538-4F69-81AD-A9108D171628}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{272E0F42-AF07-403C-9B27-8613AB25078C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31D41B19-2538-4F69-81AD-A9108D171628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D41B19-2538-4F69-81AD-A9108D171628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D41B19-2538-4F69-81AD-A9108D171628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D41B19-2538-4F69-81AD-A9108D171628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94FC9BB2-8515-440C-ADA1-E645EA2C5429}
+	EndGlobalSection
+EndGlobal
